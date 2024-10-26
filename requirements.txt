@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+datasets
+anthropic
+sklearn
+seaborn
+matplotlib
